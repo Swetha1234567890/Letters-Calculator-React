@@ -1,0 +1,50 @@
+/* Write your code here. */
+.background {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-container {
+}
+
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.para {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+
+.input {
+  border-color: #ffffff;
+  border-style: solid;
+  height: 40px;
+  width: 300px;
+  border-radius: 5px;
+  background-color: #1d976c;
+  color: #ffffff;
+}
+
+.count {
+  background-color: #ffffff;
+  height: 40px;
+  width: 150px;
+  color: #1d976c;
+  font-family: 'Roboto';
+  font-size: 18px;
+  border-radius: 5px;
+  text-align: center;
+  padding-top: 8px;
+}
+
+.img {
+  height: 400px;
+}
